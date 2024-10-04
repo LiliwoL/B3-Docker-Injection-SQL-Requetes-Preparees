@@ -58,4 +58,8 @@ http://localhost:8000/edit.php?id=3
 
 ## Etape 3
 
-Vous devez sécuriser le script delete.php, insert.php
+Vous devez sécuriser le script insert.php
+
+## Etpae 4
+
+Vous devez rédiger le script delete.php
