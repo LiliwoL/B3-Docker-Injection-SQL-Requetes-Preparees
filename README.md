@@ -24,13 +24,38 @@ sh bin/start
 docker-compose up -d
 ```
 
+---
 
 # Accès aux containers
 
 ## Web
 
-http://localhost:8000
+http://localhost:8000/list.php
 
 ## PhpMyAdmin
 
 http://localhost:8081
+
+---
+
+# Déroulé d TP
+
+## Etape 1
+
+Accédez à la page web de l'application à l'adresse suivante:
+http://localhost:8000/list.php
+
+Ensuite à :
+http://localhost:8000
+
+> Vous devez sécuriser le script index.php en utilisant des requêtes préparées.
+
+## Etape 2
+
+Vous devez sécuriser le script edit.php
+
+http://localhost:8000/edit.php?id=3
+
+## Etape 3
+
+Vous devez sécuriser le script delete.php, insert.php
