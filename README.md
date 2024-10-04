@@ -7,13 +7,13 @@ Container Docker pour suivre le cours Injection SQL et Requêtes préparées
 Clonez le dépôt
 
 ```bash
-git clone git@github.com:LiliwoL/Docker-B3-Cybersecurite.git
+git clone https://github.com/LiliwoL/B3-Docker-Injection-SQL-Requetes-Preparees
 ```
 
 Allez dans le dossier **Docker-Injection-SQL-Requetes-Preparees**
 
 ```bash
-cd Docker-Injection-SQL-Requetes-Preparee
+cd B3-Docker-Injection-SQL-Requetes-Preparee
 ```
 
 Lancez le container
