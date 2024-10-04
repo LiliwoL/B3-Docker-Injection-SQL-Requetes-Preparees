@@ -23,3 +23,14 @@ sh bin/start
 # ou utilisez la commande
 docker-compose up -d
 ```
+
+
+# Accès aux containers
+
+## Web
+
+http://localhost:8000
+
+## PhpMyAdmin
+
+http://localhost:8081
