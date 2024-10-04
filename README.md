@@ -13,11 +13,13 @@ git clone https://github.com/LiliwoL/B3-Docker-Injection-SQL-Requetes-Preparees
 Allez dans le dossier **Docker-Injection-SQL-Requetes-Preparees**
 
 ```bash
-cd B3-Docker-Injection-SQL-Requetes-Preparee
+cd B3-Docker-Injection-SQL-Requetes-Preparees
 ```
 
 Lancez le container
 
 ```bash
-bin/start
+sh bin/start
+# ou utilisez la commande
+docker-compose up -d
 ```
